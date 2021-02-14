@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MountainRifle
+- 👋 Hi, I’m @Malbelaihi
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data analysis in python
 - 💞️ I’m looking to collaborate on research am working on
